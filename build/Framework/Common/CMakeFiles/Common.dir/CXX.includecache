@@ -18,6 +18,18 @@ Interface.hpp
 
 ../Framework/Interface/Interface.hpp
 
+/home/jason/CG/Framework/Common/Allocator.cpp
+Allocator.hpp
+/home/jason/CG/Framework/Common/Allocator.hpp
+cstdio
+-
+
+/home/jason/CG/Framework/Common/Allocator.hpp
+cstddef
+-
+cstdint
+-
+
 /home/jason/CG/Framework/Common/BaseApplication.cpp
 BaseApplication.hpp
 /home/jason/CG/Framework/Common/BaseApplication.hpp
@@ -31,4 +43,8 @@ cstdio
 -
 IApplication.hpp
 /home/jason/CG/Framework/Common/IApplication.hpp
+Allocator.hpp
+/home/jason/CG/Framework/Common/Allocator.hpp
+iostream
+-
 

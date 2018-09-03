@@ -125,6 +125,33 @@ Common/fast:
 	cd /home/jason/CG/build && $(MAKE) -f Framework/Common/CMakeFiles/Common.dir/build.make Framework/Common/CMakeFiles/Common.dir/build
 .PHONY : Common/fast
 
+Allocator.o: Allocator.cpp.o
+
+.PHONY : Allocator.o
+
+# target to build an object file
+Allocator.cpp.o:
+	cd /home/jason/CG/build && $(MAKE) -f Framework/Common/CMakeFiles/Common.dir/build.make Framework/Common/CMakeFiles/Common.dir/Allocator.cpp.o
+.PHONY : Allocator.cpp.o
+
+Allocator.i: Allocator.cpp.i
+
+.PHONY : Allocator.i
+
+# target to preprocess a source file
+Allocator.cpp.i:
+	cd /home/jason/CG/build && $(MAKE) -f Framework/Common/CMakeFiles/Common.dir/build.make Framework/Common/CMakeFiles/Common.dir/Allocator.cpp.i
+.PHONY : Allocator.cpp.i
+
+Allocator.s: Allocator.cpp.s
+
+.PHONY : Allocator.s
+
+# target to generate assembly for a file
+Allocator.cpp.s:
+	cd /home/jason/CG/build && $(MAKE) -f Framework/Common/CMakeFiles/Common.dir/build.make Framework/Common/CMakeFiles/Common.dir/Allocator.cpp.s
+.PHONY : Allocator.cpp.s
+
 BaseApplication.o: BaseApplication.cpp.o
 
 .PHONY : BaseApplication.o
@@ -188,6 +215,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Common"
+	@echo "... Allocator.o"
+	@echo "... Allocator.i"
+	@echo "... Allocator.s"
 	@echo "... BaseApplication.o"
 	@echo "... BaseApplication.i"
 	@echo "... BaseApplication.s"
