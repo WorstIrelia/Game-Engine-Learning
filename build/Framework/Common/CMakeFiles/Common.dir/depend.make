@@ -10,6 +10,12 @@ Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o: ../Framework/Inter
 Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o: ../Framework/Common/BaseApplication.cpp
 Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o: ../Framework/Common/BaseApplication.hpp
 
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o: ../Framework/Interface/IRuntimeModule.hpp
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o: ../Framework/Interface/Interface.hpp
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o: ../Framework/Common/Allocator.hpp
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o: ../Framework/Common/MemoryManager.cpp
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o: ../Framework/Common/MemoryManager.hpp
+
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/IApplication.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/IRuntimeModule.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/Interface.hpp

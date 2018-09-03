@@ -38,6 +38,20 @@ BaseApplication.hpp
 IApplication.hpp
 /home/jason/CG/Framework/Common/IApplication.hpp
 
+/home/jason/CG/Framework/Common/MemoryManager.cpp
+MemoryManager.hpp
+/home/jason/CG/Framework/Common/MemoryManager.hpp
+malloc.h
+-
+
+/home/jason/CG/Framework/Common/MemoryManager.hpp
+Allocator.hpp
+/home/jason/CG/Framework/Common/Allocator.hpp
+IRuntimeModule.hpp
+/home/jason/CG/Framework/Common/IRuntimeModule.hpp
+new
+-
+
 /home/jason/CG/Framework/Common/main.cpp
 cstdio
 -

@@ -10,6 +10,12 @@ Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o
  ../Framework/Interface/Interface.hpp
  /home/jason/CG/Framework/Common/BaseApplication.cpp
  /home/jason/CG/Framework/Common/BaseApplication.hpp
+Framework/Common/CMakeFiles/Common.dir/MemoryManager.cpp.o
+ ../Framework/Interface/IRuntimeModule.hpp
+ ../Framework/Interface/Interface.hpp
+ /home/jason/CG/Framework/Common/Allocator.hpp
+ /home/jason/CG/Framework/Common/MemoryManager.cpp
+ /home/jason/CG/Framework/Common/MemoryManager.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o
  ../Framework/Interface/IApplication.hpp
  ../Framework/Interface/IRuntimeModule.hpp
