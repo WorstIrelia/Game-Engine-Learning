@@ -21,4 +21,5 @@ Framework/Common/CMakeFiles/Common.dir/main.cpp.o
  ../Framework/Interface/IRuntimeModule.hpp
  ../Framework/Interface/Interface.hpp
  /home/jason/CG/Framework/Common/Allocator.hpp
+ /home/jason/CG/Framework/Common/MemoryManager.hpp
  /home/jason/CG/Framework/Common/main.cpp

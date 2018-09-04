@@ -20,5 +20,6 @@ Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/IAppli
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/IRuntimeModule.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Interface/Interface.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Common/Allocator.hpp
+Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Common/MemoryManager.hpp
 Framework/Common/CMakeFiles/Common.dir/main.cpp.o: ../Framework/Common/main.cpp
 

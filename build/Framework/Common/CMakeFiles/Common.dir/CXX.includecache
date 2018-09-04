@@ -59,6 +59,8 @@ IApplication.hpp
 /home/jason/CG/Framework/Common/IApplication.hpp
 Allocator.hpp
 /home/jason/CG/Framework/Common/Allocator.hpp
+MemoryManager.hpp
+/home/jason/CG/Framework/Common/MemoryManager.hpp
 iostream
 -
 
